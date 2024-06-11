@@ -2,7 +2,7 @@
 
 Step 1: Create new folder in vs code and open terminal.
 
-Step 2: git clone "https://github.com/vipul1066/Uifry-Landing-Page.git"(run this command to clone the repo locally).
+Step 2: git clone "https://github.com/vipul1066/Uifry-Landing-Page.git" (run this command to clone the repo locally).
 
 Step 3: Use Live Server vs code extension to see the output.
 
