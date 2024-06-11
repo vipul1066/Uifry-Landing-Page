@@ -1,4 +1,4 @@
-#Instructions to run the project locally: 
+# Instructions to run the project locally: 
 
 Step 1: Create new folder in vs code and open terminal.
 
